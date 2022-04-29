@@ -1,0 +1,11 @@
+body{
+    background-color: #e55c89;
+    text-align: center;
+}
+
+h1{
+    color: aliceblue;
+    margin-top:2%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size:40px;
+}
